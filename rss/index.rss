@@ -1,0 +1,30 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Computer Blue</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Tue, 28 Apr 2015 21:26:58 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Can I get an AMEN for Google Chrome's Dev tools!</title><description>&lt;p&gt;Especially Google’s Javascript V8 engine. The command line tool is magnifcique(sp?)! However, over time I’ve found that “CMD+TAB”ing between sublime and chrome to be a bit annoying. &lt;br&gt;
+&lt;br&gt;  &lt;/p&gt;
+
+&lt;div align="middle"&gt;[enter sublime-v8 plugin]&lt;/div&gt;  
+
+&lt;p&gt;&lt;br&gt; &lt;br&gt;
+I’d like to thank &lt;a href="https://github.com/akira-cn/sublime-v8"&gt;Akira-cn&lt;/a&gt; for making a Sublime plug-in that allows us to&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">b47b243c-e711-43df-878d-778c78066d78</guid><category>Getting Started</category><dc:creator>Joseph Nayigiziki</dc:creator><pubDate>Thu, 23 Apr 2015 15:49:22 GMT</pubDate><content:encoded>&lt;p&gt;Especially Google’s Javascript V8 engine. The command line tool is magnifcique(sp?)! However, over time I’ve found that “CMD+TAB”ing between sublime and chrome to be a bit annoying. &lt;br&gt;
+&lt;br&gt;  &lt;/p&gt;
+
+&lt;div align="middle"&gt;[enter sublime-v8 plugin]&lt;/div&gt;  
+
+&lt;p&gt;&lt;br&gt; &lt;br&gt;
+I’d like to thank &lt;a href="https://github.com/akira-cn/sublime-v8"&gt;Akira-cn&lt;/a&gt; for making a Sublime plug-in that allows us to run Google's V8 in Sublime. Now I can use the command line inside Sublime.  &lt;/p&gt;
+
+&lt;div align="middle"&gt;Installation Steps:&lt;/div&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Download &lt;a href="http://www.sublimetext.com/2"&gt;Sublime Text&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Download &lt;a href="https://packagecontrol.io/installation"&gt;Package Control&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Open SublimeText and type the following keys &lt;strong&gt;CMD+Shift+P&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;A small box will appear, inside of which type the following &lt;strong&gt;"Package Control: Install Package"&lt;/strong&gt; &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src="http://blog.generalassemb.ly/blog/wp-content/uploads/2013/11/sublime-text-3-command-palette.png"&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click/Select &lt;strong&gt;"Package Control: Install Package"&lt;/strong&gt;  6. Type and select the following into the next small box that appears &lt;strong&gt;"sublime-v8"&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;Once downloaded, restart SublimeText  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CTRL+ALT+J key&lt;/strong&gt; your way to the console!&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item></channel></rss>
